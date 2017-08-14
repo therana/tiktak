@@ -18,4 +18,4 @@ Download the repository or do the command :
 git clone https://github.com/therana/tiktak.git App && cd App
 
 ```
-[Live Demo](https://www.therana.github.io/tiktak)
+[Live Demo](https://therana.github.io/tiktak)
