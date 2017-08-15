@@ -1,5 +1,5 @@
 # TikTak
-A simple JavaScript powered analouge clock.
+A simple JavaScript powered analogue clock.
 -
 
 
