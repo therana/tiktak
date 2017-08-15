@@ -1,6 +1,6 @@
 # TikTak
 A simple JavaScript powered analogue clock.
--
+---
 
 
 - Plays feedback sound on every second.
