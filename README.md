@@ -15,7 +15,7 @@ Usage :
 
 Download the repository or do the command :
 ```bash
-git clone https://github.com/therana/tiktak.git App && cd App
+git clone https://github.com/therana/tiktak.git TikTak && cd TikTak
 
 ```
 [Live Demo](https://therana.github.io/tiktak)
